@@ -1,0 +1,11 @@
+output/
+*.mp4
+*.wav
+*.png
+*.srt
+*.db
+token.json
+client_secret.json
+.env
+venv/
+__pycache__/
